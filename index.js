@@ -14,7 +14,7 @@ let fullName = "Ahmad Albaqsami";
 let yearOfBirth = 1981;
 let hobby = "Scuba sky diving";
 let funFact = "I feel sleepy but rarely sleep";
-let image = "https://media-exp1.licdn.com/dms/image/C4E03AQFrEW5P2jtxJQ/profile-displayphoto-shrink_800_800/0/1517046762307?e=1646870400&v=beta&t=aO0LMi0-rvmw9ty_SeibyzCbcA33cPTjxEL877YZCug";
+const image = "https://media-exp1.licdn.com/dms/image/C4E03AQFrEW5P2jtxJQ/profile-displayphoto-shrink_800_800/0/1517046762307?e=1646870400&v=beta&t=aO0LMi0-rvmw9ty_SeibyzCbcA33cPTjxEL877YZCug";
 
 
 
